@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4227bfe8-fc05-40a8-9dac-c6aec136ce15" name="Default" comment="" />
+    <list default="true" id="4227bfe8-fc05-40a8-9dac-c6aec136ce15" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/728x90/styles/_layout.scss" afterPath="$PROJECT_DIR$/app/728x90/styles/_layout.scss" />
+    </list>
     <ignored path="CMAB_Stroopwafels.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +29,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-              <folding />
+              <folding>
+                <marker date="1542240814000" expanded="true" signature="29:1173" ph="..." />
+                <marker date="1542240814000" expanded="true" signature="36:495" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,8 +84,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="898" />
-    <option name="y" value="59" />
+    <option name="x" value="253" />
+    <option name="y" value="73" />
     <option name="width" value="1437" />
     <option name="height" value="1324" />
   </component>
@@ -209,7 +215,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CMAB_CheeseBoard" />
     <property name="editor.config.accepted" value="true" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -222,15 +228,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542238755438</updated>
-      <workItem from="1542238758074" duration="2061000" />
+      <workItem from="1542238758074" duration="2634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2061000" />
+    <option name="totallyTimeSpent" value="2634000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="898" y="59" width="1437" height="1324" extended-state="0" />
+    <frame x="253" y="73" width="1437" height="1324" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23234463" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -296,7 +302,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding />
+          <folding>
+            <marker date="1542240814000" expanded="true" signature="29:1173" ph="..." />
+            <marker date="1542240814000" expanded="true" signature="36:495" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
