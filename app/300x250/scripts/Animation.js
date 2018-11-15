@@ -23,7 +23,7 @@ app.Animation = (function () {
 	// Starts the animation
 	function start() {
 
-        tl1.from(txt1, .5, {y:"+=50", autoAlpha: 0, ease: Cubic.easeInOut})
+        tl1.from(txt1, .5, {y:"+=50", autoAlpha: 0, ease: Cubic.easeInOut}, "+=.5")
             .to(txt1, .5, {x:"-=300", ease: Cubic.easeInOut}, "+=3")
             .from(txt2, .5, {y:"+=50", autoAlpha: 0, ease: Cubic.easeInOut}, "-=.5")
             .from(cta, .5, {y:"+=50", autoAlpha: 0, ease: Cubic.easeInOut}, "-=.5");
